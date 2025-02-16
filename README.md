@@ -138,7 +138,3 @@ The project includes comprehensive tests covering:
 
 ## Author
 Lokesh B M [http://lokesh2021.github.io/]
-
-## Acknowledgments
-- Project requirements and specifications
-- Testing data and scenarios
