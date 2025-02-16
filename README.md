@@ -4,7 +4,7 @@ A Python utility for processing CSV files with various operations including filt
 
 ## Project Structure
 ```
-csv-data-processor/
+CSV-Utility/
 ├── README.md               # Project documentation
 ├── data/                  # Data directory
 │   └── fruits_sales_data.csv  # Sample CSV file
@@ -58,8 +58,8 @@ csv-data-processor/
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd csv-data-processor
+git clone https://github.com/lokesh2021/CSVUtility.git
+cd CSVUtility
 ```
 
 2. Create and activate virtual environment:
